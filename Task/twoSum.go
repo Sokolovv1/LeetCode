@@ -1,4 +1,4 @@
-package leetCode
+package Task
 
 func TwoSum(nums []int, target int) []int {
 	for i := 0; i < len(nums); i++ {

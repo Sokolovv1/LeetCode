@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"leetCode/leetCode"
+	"leetCode/Task"
 )
 
 func main() {
-	fmt.Println(leetCode.TwoSum([]int{2, 7, 11, 15}, 9))
+	fmt.Println(Task.TwoSum([]int{2, 7, 11, 15}, 9))
 }
